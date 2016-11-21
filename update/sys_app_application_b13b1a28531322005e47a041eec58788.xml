@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>APP_A</name>
+        <order/>
+        <roles>x_app_a.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-11-21 23:50:42</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b13b1a28531322005e47a041eec58788</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>APP_A</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="APP_A" source="x_app_a">b13b1a28531322005e47a041eec5877a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="APP_A">b13b1a28531322005e47a041eec5877a</sys_scope>
+        <sys_update_name>sys_app_application_b13b1a28531322005e47a041eec58788</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-11-21 23:50:43</sys_updated_on>
+        <title>APP_A</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
